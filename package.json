@@ -1,6 +1,6 @@
 {
   "name": "react-native-process-shim",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shim the Node.js process for React Native's JS runtime",
   "main": "index.js",
   "author": "staltz.com",
@@ -12,6 +12,7 @@
   "keywords": ["react-native", "process", "node", "nodejs", "shim"],
   "license": "MIT",
   "dependencies": {
-    "@staltz/react-native-os": ">= 1.2"
+    "react-native-os":
+      "git://github.com/staltz/react-native-os.git#staltz-package"
   }
 }
