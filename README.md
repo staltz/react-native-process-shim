@@ -1,7 +1,7 @@
 # react-native-process-shim
 
 ```
-yarn add react-native-process-shim
+npm install react-native-process-shim
 ```
 
 ## usage

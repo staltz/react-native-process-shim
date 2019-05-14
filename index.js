@@ -1,4 +1,4 @@
-var RNOS = require("react-native-os");
+var RNOS = require("react-native-os-staltz");
 module.exports = global.process = {
   version: "7.1.0",
   umask: () => 18,

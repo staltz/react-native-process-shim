@@ -12,7 +12,6 @@
   "keywords": ["react-native", "process", "node", "nodejs", "shim"],
   "license": "MIT",
   "dependencies": {
-    "react-native-os":
-      "git://github.com/staltz/react-native-os.git#staltz-package"
+    "react-native-os-staltz": "2.1.0"
   }
 }
