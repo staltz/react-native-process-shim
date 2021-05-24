@@ -18,6 +18,6 @@
   ],
   "license": "MIT",
   "dependencies": {
-    "react-native-os-staltz": "2.2.0"
+    "react-native-os-staltz": "2.2.1"
   }
 }
